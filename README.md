@@ -63,7 +63,3 @@ int main() {
     return 0;
 }
 
-⚙️ Dependencies & Requirements
-• ​Dependencies: Requires clsMyQueue.h and clsDblLinkedList.h in the same directory. 
-• ​Language: C++11 or higher
-• ​Compiler: Compatible with Visual Studio, GCC, Clang, or any standard C++ compiler
